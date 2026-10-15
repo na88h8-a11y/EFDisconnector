@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EFDisconnector" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#CC2222</item>
+        <item name="colorPrimaryVariant">#991111</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#0D0D0D</item>
+    </style>
+</resources>
